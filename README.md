@@ -4,8 +4,9 @@ A simple addon to resize the Class Hall/Garrison minimap button to be the same s
 
 # Limitations
 
-* Only works with the default (circular) minimap. Would probably work with other minimap mods as long as they are circular, and not scaled differently than the default. I do not plan on supporting other map mods, as they usually have minimap button support built-in.
+* Only works with the default (circular) minimap and Class Hall/Garrison buttons. Would probably work with other minimap mods as long as they are circular, and not scaled differently than the default. I do not plan on supporting other map mods, as they usually have minimap button support built-in.
 * Cannot move the button (unless you want to dig into the code, then by all means go right ahead!).
+* Supports default UI scaling. It should probably maybe work with other UI scales, but it hasn't been tested. YMMV.
 
 # Planned features
 
