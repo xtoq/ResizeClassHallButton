@@ -1,0 +1,5 @@
+## Interface: 70000
+## Title: ResizeClassHallButton
+## Notes: Resizes the Class Hall minimap button.
+## Author: xtoq
+ResizeClassHallButton.lua
