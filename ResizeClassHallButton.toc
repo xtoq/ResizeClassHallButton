@@ -1,7 +1,6 @@
-## Interface: 70000
+## Interface: 70300
 ## Title: ResizeClassHallButton
-## Notes: Quality of life improvements to the Class Hall/Garrison minimap button.
+## Notes: Resizes the Class Hall/Garrison minimap button to be the same size as other buttons.
 ## Author: xtoq
-ResizeClassHallButton.lua
 
-// TODO: rename to ResizeClassHallGarrisonButton
+ResizeClassHallButton.lua
