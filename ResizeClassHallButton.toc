@@ -1,6 +1,6 @@
 ## Interface: 70300
 ## Title: ResizeClassHallButton
-## Notes: Resizes the Class Hall/Garrison minimap button to be the same size as other buttons.
+## Notes: Resizes the Class Hall/Garrison button to be the same size as the other buttons and moves it to the top left (NW) of the map.
 ## Author: xtoq
 
 ResizeClassHallButton.lua
